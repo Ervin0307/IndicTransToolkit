@@ -23,7 +23,7 @@ pip install --editable . --use-pep517 # required for pip >= 25.0
 ## Examples
 For the training usecase, please refer [here](https://github.com/AI4Bharat/IndicTrans2/tree/main/huggingface_interface).
 
-### PreTainedTokenizer 
+### PreTrainedTokenizer 
 ```python
 import torch
 from IndicTransToolkit import IndicProcessor # NOW IMPLEMENTED IN CYTHON !!
